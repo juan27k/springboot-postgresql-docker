@@ -63,18 +63,19 @@ core2/
 Juan Manuel Cichello
 LinkedIn
 
-👨‍🏫 ¿Querés aprender Spring Boot desde cero y construir microservicios profesionales?
+## 👨‍🏫 ¿Querés aprender Spring Boot desde cero y construir microservicios profesionales?
+
 Después de varios años de experiencia como desarrollador y formador, armé un curso completo donde te enseño paso a paso a crear una arquitectura de backend sólida con Java y Spring Boot.
 
-🔹 Conexión a base de datos con PostgreSQL
-🔹 Uso de Docker
-🔹 API REST con JPA y Hibernate
-🔹 Proyecto real desde cero
-🔹 Buenas prácticas y explicaciones claras
+🔹 Conexión a base de datos con PostgreSQL  
+🔹 Uso de Docker  
+🔹 API REST con JPA y Hibernate  
+🔹 Proyecto real desde cero  
+🔹 Buenas prácticas y explicaciones claras  
 🔹 Acceso de por vida y soporte directo
 
-👉 Accedé al curso completo en Hotmart:
-Spring Boot - Microservicios y Arquitectura de Back-End (Curso en Hotmart)
+👉 **Accedé al curso completo en Hotmart:**  
+[Spring Boot - Microservicios y Arquitectura de Back-End (Curso en Hotmart)](https://hotmart.com/es/marketplace/productos/spring-boot-microservicios-arquitectura-de-back-end/V89528817U)
 
 
 📄 Licencia
