@@ -58,6 +58,27 @@ PUT	/productos/{id}	Actualizar producto existente
 DELETE	/productos/{id}	Eliminar producto
 ⚠️ Verificá tu clase @RestController si tenés mapeos adicionales.
 
+🧠 Acceder a la base de datos gráficamente
+Opción 1: Usar pgAdmin
+Descargar desde: https://www.pgadmin.org/download/
+
+Conectar a la base:
+
+Host: localhost
+
+Puerto: 5432
+
+Usuario: postgres
+
+Contraseña: 1234
+
+Base de datos: tienda
+
+Opción 2: Usar DBeaver
+Descargar desde: https://dbeaver.io/download/
+
+Crear nueva conexión PostgreSQL con los mismos datos anteriores.
+
 🙌 Contribuciones
 ¿Querés colaborar? ¡Bienvenido!
 
