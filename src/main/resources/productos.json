@@ -1,0 +1,20 @@
+[
+{
+  "id": 1,
+  "nombre": "XBOX",
+  "precio": 20000.0,
+  "stock": 3
+},
+{
+"id": 2,
+"nombre": "Teclado",
+"precio": 1000.0,
+"stock": 10
+},
+{
+"id": 3,
+"nombre": "Scanner",
+"precio": 10000.0,
+"stock": 5
+}
+]
