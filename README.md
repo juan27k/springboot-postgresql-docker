@@ -4,15 +4,10 @@ Este proyecto es una API REST de ejemplo desarrollada con Spring Boot que se con
 
 📦 Tecnologías utilizadas
 Java 17
-
 Spring Boot 3
-
 Spring Data JPA + Hibernate
-
 PostgreSQL
-
 Docker
-
 Maven
 
 1️⃣ Levantar PostgreSQL con Docker
@@ -27,12 +22,7 @@ También podés usar docker-compose.yml si lo agregás al proyecto.
 
 2️⃣ Ejecutar el proyecto Spring Boot
 Importá el proyecto en tu IDE favorito (Eclipse, IntelliJ, VS Code) y ejecutá la clase principal Core2Application.java.
-
 Asegurate de tener configurado tu archivo application.properties:
-
-properties
-Copiar
-Editar
 productos.estrategia=EN_BD
 spring.datasource.url=jdbc:postgresql://localhost:5432/tienda
 spring.datasource.username=postgres
@@ -49,19 +39,13 @@ DELETE	/productos/{id}	Elimina un producto
 
 🐘 Acceder a PostgreSQL vía GUI
 Si deseás administrar la base gráficamente, podés usar PgAdmin o DBeaver:
-
 Host: localhost
-
 Puerto: 5432
-
 Usuario: postgres
-
 Contraseña: 1234
-
 Base de datos: tienda
 
 📂 Estructura
-
 bash
 Copiar
 Editar
