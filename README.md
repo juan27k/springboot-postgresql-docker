@@ -61,6 +61,7 @@ Contraseña: 1234
 Base de datos: tienda
 
 📂 Estructura
+
 bash
 Copiar
 Editar
