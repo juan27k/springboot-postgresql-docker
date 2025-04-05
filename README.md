@@ -15,12 +15,6 @@ Docker
 
 Maven
 
-🚀 Cómo clonar y ejecutar
-bash
-Copiar
-Editar
-git clone https://github.com/juan27k/springboot-postgresql-docker.git
-cd springboot-postgresql-docker/core2
 1️⃣ Levantar PostgreSQL con Docker
 bash
 Copiar
@@ -45,12 +39,14 @@ spring.datasource.username=postgres
 spring.datasource.password=1234
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
+
 🌐 Endpoints disponibles
 Método	Endpoint	Descripción
 GET	/productos	Lista todos los productos
 POST	/productos	Crea un nuevo producto
 PUT	/productos/{id}	Actualiza un producto existente
 DELETE	/productos/{id}	Elimina un producto
+
 🐘 Acceder a PostgreSQL vía GUI
 Si deseás administrar la base gráficamente, podés usar PgAdmin o DBeaver:
 
@@ -77,6 +73,7 @@ core2/
 │           └── ...
 ├── pom.xml
 └── README.md
+
 🧑 Autor
 Juan Manuel Cichello
 LinkedIn
